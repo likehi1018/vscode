@@ -1,0 +1,14 @@
+kikyo=200
+himawari=250
+yuri=150
+
+k_honsu=10
+h_honsu=20
+y_honsu=30
+
+kikyo_price=kikyo*k_honsu
+himawari_price= himawari*h_honsu
+yuri_price=yuri*y_honsu
+
+total_price=kikyo_price+himawari_price+yuri_price
+print(total_price)
